@@ -18,6 +18,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width:100%;"></img>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBJJ94&layout=compact&exclude_repo=projeto-google-glass-html-css-javascript)](https://github.com/anuraghazra/github-readme-stats)
 
