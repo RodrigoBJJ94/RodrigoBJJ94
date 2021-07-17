@@ -4,7 +4,8 @@
 - I'm currently studying analysis and development of systems
 - I'm currently learning Javascript, HTML and CSS
 
-## My Skills
+
+                                                                        ## My Skills
 
 ## Languages
 
