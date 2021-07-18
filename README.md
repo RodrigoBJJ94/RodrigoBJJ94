@@ -34,6 +34,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://desktop.github.com/images/desktop-icon.svg" alt="git" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://user-images.githubusercontent.com/6686410/31217465-6adbbd18-a98d-11e7-9371-26d578182e9d.png" alt="insomnia" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://img.utdstc.com/icon/f6f/11c/f6f11c75fda63dd454fa5db9610a77cfd6752be4db11010f2e4252551a4abccd:200" alt="mysqlwb" width="40" height="40" style="max-width:100%;"></img>
 
