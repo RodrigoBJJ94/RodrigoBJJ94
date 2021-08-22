@@ -10,6 +10,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40" style="max-width:100%;"></img>&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40" style="max-width:100%;"></img>&nbsp;&nbsp;&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6-3ZDkSJr35I4fYmQThEcy_Na1B-YM9vNZJmdspa8UjubBTd5O429wHTJKl1dhpoL0Ak&usqp=CAU" alt="react-native" width="40" height="40" style="max-width:100%;"></img>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width:100%;"></img>&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width:100%;"></img>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_ejs_icon_130626.png" alt="ejs" width="40" height="40" style="max-width:100%;"></img>&nbsp;&nbsp;&nbsp;
