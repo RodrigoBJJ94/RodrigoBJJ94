@@ -26,11 +26,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-brentano-26a7ba204/)
 [![LinkedIn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodrigoBJJ94)
 
-Site: https://rodrigobrentano.netlify.app/
+- Site: https://rodrigobrentano.netlify.app/
 
-E-mail: rodrigobjj24@gmail.com
+- E-mail: rodrigobjj24@gmail.com
 
-WhatsApp: 51 992191122
+- WhatsApp: 51 992191122
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBJJ94&layout=compact&exclude_repo=projeto-google-glass-html-css-javascript)](https://github.com/anuraghazra/github-readme-stats)
 
