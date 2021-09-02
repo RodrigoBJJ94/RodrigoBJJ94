@@ -2,7 +2,7 @@
 # I'm Rodrigo Brentano
 - I live in :brazil:, Arroio do Meio
 - I'm currently studying analysis and development of systems
-- I'm currently learning React, Javascript, HTML and CSS
+- I'm currently learning React Native
 
 ## Skills
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js"></img>
