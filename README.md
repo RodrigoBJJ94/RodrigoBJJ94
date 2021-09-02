@@ -27,9 +27,7 @@
 [![LinkedIn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodrigoBJJ94)
 
 - Site: https://rodrigobrentano.netlify.app/
-
 - E-mail: rodrigobjj24@gmail.com
-
 - WhatsApp: 51 992191122
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBJJ94&layout=compact&exclude_repo=projeto-google-glass-html-css-javascript)](https://github.com/anuraghazra/github-readme-stats)
