@@ -34,7 +34,7 @@
 - E-mail: rodrigobjj24@gmail.com
 - WhatsApp: 51 992191122
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBJJ94&layout=compact&exclude_repo=projeto-google-glass-html-css-javascript,projeto-agenda-javascript-ejs&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBJJ94&layout=compact&exclude_repo=projeto-google-glass-html-css-javascript&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RodrigoBJJ94/RodrigoBJJ94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
