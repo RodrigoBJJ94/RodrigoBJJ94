@@ -32,7 +32,7 @@
 
 - Site: https://rodrigobrentano-website-english.netlify.app
 - E-mail: rodrigobjj24@gmail.com
-- WhatsApp: 51 992191122
+- WhatsApp: +55 51 992191122
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBJJ94&layout=compact&exclude_repo=projeto-google-glass-html-css-javascript&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
