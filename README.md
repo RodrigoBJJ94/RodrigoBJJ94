@@ -30,7 +30,7 @@
 
 
 
-- Site: https://rodrigobrentano.netlify.app/
+- Site: rodrigobrentano-website-english.netlify.app
 - E-mail: rodrigobjj24@gmail.com
 - WhatsApp: 51 992191122
 
