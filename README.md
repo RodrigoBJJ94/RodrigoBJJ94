@@ -36,7 +36,7 @@
 [![WhatsApp](https://img.shields.io/badge/+55_51_992191122-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551992191122)
 [![GooglePlay](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Rodrigo+Brentano)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBJJ94&layout=compact&exclude_repo=projeto-google-glass-html-css-javascript&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBJJ94&layout=compact&exclude_repo=projeto-google-glass-html-css-javascript,projeto-agenda-javascript-ejs&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RodrigoBJJ94/RodrigoBJJ94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
