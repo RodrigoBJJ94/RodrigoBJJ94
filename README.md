@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Rodrigo Brentano
-- I live in :brazil:, Arroio do Meio
+- I live in :brazil:, Arroio do Meio - RS
 - I'm currently studying analysis and systems development
 - I'm currently learning React Native and ReactJS
 
