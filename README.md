@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Rodrigo Brentano
 - I live in :brazil:, Arroio do Meio - RS
 - I'm currently studying systems analysis and development
-- I'm currently learning ReactJS, React Native and Redux
+- I'm currently learning Laravel and PHP
 
 ## Skills
 <img src="https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactNative"></img>
