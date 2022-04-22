@@ -29,9 +29,8 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux"></img>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodeJS"></img>
 <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white" alt="express"></img>
-<img src="https://img.shields.io/badge/PyCharm-111111?style=for-the-badge&logo=pycharm&logoColor=white" alt="pyCharm"></img>
 <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="insomnia"></img>
-
+<img src="https://img.shields.io/badge/PyCharm-111111?style=for-the-badge&logo=pycharm&logoColor=white" alt="pyCharm"></img>
 
 ## Contact
 
