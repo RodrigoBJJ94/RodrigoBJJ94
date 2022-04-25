@@ -7,7 +7,7 @@
 - I'm currently learning Laravel and PHP
 
 <h3 align="center">
-    Skills
+    *** Skills ***
 </h3>
 
 <img src="https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactNative"></img>
@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/PyCharm-111111?style=for-the-badge&logo=pycharm&logoColor=white" alt="pyCharm"></img>
 
 <h3 align="center">
-   Contact
+  *** Contact ***
 </h3>
 
 [![Website](https://img.shields.io/badge/Website-c4412f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rodrigobrentano-en.netlify.app)
