@@ -6,9 +6,9 @@
 - I'm currently studying systems analysis and development
 - I'm currently learning Laravel and PHP
 
-<h2 align="center">
+<h3 align="center">
     Skills
-</h2>
+</h3>
 
 <img src="https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactNative"></img>
 <img src="https://img.shields.io/badge/React.JS-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"></img>
@@ -38,9 +38,9 @@
 <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="insomnia"></img>
 <img src="https://img.shields.io/badge/PyCharm-111111?style=for-the-badge&logo=pycharm&logoColor=white" alt="pyCharm"></img>
 
-<h2 align="center">
+<h3 align="center">
    Contact
-</h2>
+</h3>
 
 [![Website](https://img.shields.io/badge/Website-c4412f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rodrigobrentano-en.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-brentano-26a7ba204/)
