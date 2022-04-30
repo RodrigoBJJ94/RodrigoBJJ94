@@ -4,8 +4,7 @@
 
 - I live in :brazil:, Arroio do Meio - RS
 - I'm currently studying systems analysis and development
-- I'm currently learning Laravel and PHP
-
+- I'm currently learning Laravel and Flutter
 <h2 align="center">
     Skills
 </h2>
