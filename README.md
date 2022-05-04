@@ -2,8 +2,8 @@
     Hi there 👋, I'm Rodrigo Brentano
 </h2>
 
+- I’m currently working at Ponfac as front-end and mobile developer
 - I'm currently studying systems analysis and development
-- I'm currently learning Laravel and Flutter
 
 <h2 align="center">
     Skills
@@ -57,6 +57,7 @@
 
 Here are some ideas to get you started:
 
+- I'm currently learning Laravel and Flutter
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
