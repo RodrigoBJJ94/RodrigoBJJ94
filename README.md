@@ -20,11 +20,11 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"></img>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"></img>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart"></img>
-<img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="scss"></img>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"></img>
+<img src="https://img.shields.io/badge/Sass/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sassAndScss"></img>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql"></img>
 <img src="https://img.shields.io/badge/Github_desktop-7c2f9f?style=for-the-badge" alt="gitHubDesktop"></img>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"></img>
+<img src="https://img.shields.io/badge/Git_Extensions-212121?style=for-the-badge&logo=gitextensions&logoColor=white" alt="gitExtensions"></img>
 <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=black" alt="gitlab"></img>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"></img>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="androidStudio"></img>
