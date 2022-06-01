@@ -10,7 +10,7 @@
 </h2>
 
 <img src="https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactNative"></img>
-<img src="https://img.shields.io/badge/React.JS-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"></img>
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"></img>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"></img>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white" alt="laravel"></img>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" alt="php"></img>
