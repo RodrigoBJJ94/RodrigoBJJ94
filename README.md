@@ -1,8 +1,3 @@
-<h3 align="center">
-    Hi there 👋, I'm Rodrigo Brentano
-</h3>
-
-
 - I’m currently working at Ponfac as web and mobile developer
 - I'm currently studying systems analysis and development
 
@@ -45,9 +40,8 @@
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></img>
 <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"></img>
 
-<h3 align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBJJ94&layout=compact&exclude_repo=projeto-agenda-javascript-ejs&hide=java,ruby,makefile,starlark,objective-c,c%2B%2B,objective-c%2B%2B,blade,shell,cmake,c,swift,kotlin&langs_count=8&theme=dark&hide_title=true"> 
-</h3>
+<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBJJ94&layout=compact&exclude_repo=projeto-agenda-javascript-ejs&hide=java,ruby,makefile,starlark,objective-c,c%2B%2B,objective-c%2B%2B,blade,shell,cmake,c,swift,kotlin&langs_count=10&theme=buefy"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoBJJ94&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="center">
   Contact
