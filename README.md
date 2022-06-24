@@ -54,8 +54,10 @@
 [![WhatsApp](https://img.shields.io/badge/+55_51_992191122-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551992191122)
 [![GooglePlay](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Rodrigo+Brentano)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBJJ94&layout=compact&exclude_repo=projeto-agenda-javascript-ejs&hide=java,ruby,makefile,starlark,objective-c,c%2B%2B,objective-c%2B%2B,blade,shell,cmake,c,swift,kotlin&langs_count=8&theme=dark&card_width=722"> 
 
-<img height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBJJ94&layout=compact&exclude_repo=projeto-agenda-javascript-ejs&hide=java,ruby,makefile,starlark,objective-c,c%2B%2B,objective-c%2B%2B,blade,shell,cmake,c,swift,kotlin&langs_count=8&theme=dark"> <img height=185 src="https://github-readme-stats.vercel.app/api?username=RodrigoBJJ94&show_icons=true&theme=dark">
+
+
 
 
 <!--
