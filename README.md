@@ -1,13 +1,14 @@
-<h2 align="center">
+<h3 align="center">
     Hi there 👋, I'm Rodrigo Brentano
-</h2>
+</h3>
+
 
 - I’m currently working at Ponfac as web and mobile developer
 - I'm currently studying systems analysis and development
 
-<h2 align="center">
+<h3 align="center">
     Skills
-</h2>
+</h3>
 
 <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactNative"></img>
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs"></img>
@@ -44,21 +45,19 @@
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></img>
 <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"></img>
 
-<h2 align="center">
+<h3 align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBJJ94&layout=compact&exclude_repo=projeto-agenda-javascript-ejs&hide=java,ruby,makefile,starlark,objective-c,c%2B%2B,objective-c%2B%2B,blade,shell,cmake,c,swift,kotlin&langs_count=8&theme=dark&hide_title=true"> 
+</h3>
+
+<h3 align="center">
   Contact
-</h2>
+</h3>
 
 [![Website](https://img.shields.io/badge/Website-c4412f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rodrigobrentano-en.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-brentano-26a7ba204/)
 [![Gmail](https://img.shields.io/badge/rodrigobjj24@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
 [![WhatsApp](https://img.shields.io/badge/+55_51_992191122-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551992191122)
 [![GooglePlay](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Rodrigo+Brentano)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBJJ94&layout=compact&exclude_repo=projeto-agenda-javascript-ejs&hide=java,ruby,makefile,starlark,objective-c,c%2B%2B,objective-c%2B%2B,blade,shell,cmake,c,swift,kotlin&langs_count=8&theme=dark&card_width=722"> 
-
-
-
-
 
 <!--
 **RodrigoBJJ94/RodrigoBJJ94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
