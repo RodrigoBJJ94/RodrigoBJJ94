@@ -5,8 +5,12 @@
   Skills
 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,sass,nodejs,express,flutter,dart,laravel,php,python)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb,docker,firebase,netlify,heroku,androidstudio,git,github,gitlab,vscode)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,sass,nodejs,express,flutter,dart,laravel,php,python" />
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb,docker,firebase,netlify,heroku,androidstudio,git,github,gitlab,vscode" />
+  </a>
+</p>
 
 <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBJJ94&layout=compact&exclude_repo=projeto-agenda-javascript-ejs&hide=java,ruby,makefile,starlark,objective-c,c%2B%2B,objective-c%2B%2B,blade,shell,cmake,c,swift,kotlin&langs_count=10&theme=buefy"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoBJJ94&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
