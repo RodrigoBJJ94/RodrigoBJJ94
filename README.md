@@ -2,7 +2,7 @@
 - I'm currently studying systems analysis and development
 
 <h3 align="center">
-    Frameworks
+  Skills
 </h3>
 
 <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactNative"></img>
@@ -11,10 +11,6 @@
 <img src="https://img.shields.io/badge/Expressjs-111111?style=for-the-badge&logo=express&logoColor=white" alt="express"></img>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"></img>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white" alt="laravel"></img>
-
-<h3 align="center">
-    Languages
-</h3>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"></img>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"></img>
@@ -25,10 +21,6 @@
 <img src="https://img.shields.io/badge/Sass/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sassAndScss"></img>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"></img>
 
-<h3 align="center">
-    Databases/Hosting
-</h3>
-
 <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"></img>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql"></img>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgreSQL"></img>
@@ -36,10 +28,6 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"></img>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"></img>
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"></img>
-
-<h3 align="center">
-    Tools
-</h3>
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"></img>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"></img>
@@ -49,9 +37,7 @@
 <img src="https://img.shields.io/badge/Git_Extensions-212121?style=for-the-badge&logo=gitextensions&logoColor=white" alt="gitExtensions"></img>
 <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=black" alt="gitlab"></img>
 
-
 <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBJJ94&layout=compact&exclude_repo=projeto-agenda-javascript-ejs&hide=java,ruby,makefile,starlark,objective-c,c%2B%2B,objective-c%2B%2B,blade,shell,cmake,c,swift,kotlin&langs_count=10&theme=buefy"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoBJJ94&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <h3 align="center">
   Contact
