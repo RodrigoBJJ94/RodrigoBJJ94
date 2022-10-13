@@ -1,4 +1,5 @@
 - I’m currently working at Ponfac as web, mobile and desktop developer
+- I'm graduate in systems analysis and development
 
 <h3 align="center">
   Skills
