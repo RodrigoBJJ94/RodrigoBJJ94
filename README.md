@@ -1,5 +1,4 @@
-- I’m currently working at Ponfac as web and mobile developer
-- I'm currently studying systems analysis and development
+- I’m currently working at Ponfac as web, mobile and desktop developer
 
 <h3 align="center">
   Skills
