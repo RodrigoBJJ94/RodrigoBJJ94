@@ -2,13 +2,23 @@
 - I'm graduate in systems analysis and development
 
 <h3 align="center">
+  Main Skills
+</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,electron,js,html,css,nodejs,express,sqlite,git,github,gitlab,vscode&theme=dark" />
+  </a>
+</p>
+
+<h3 align="center">
   Skills
 </h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,sass,nodejs,express,electron,flutter,dart,laravel,php,python&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql,mongodb,docker,firebase,netlify,heroku,androidstudio,git,github,gitlab,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,flutter,dart,laravel,php,python,sass,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,postman,androidstudio,firebase,netlify,heroku&theme=dark" />
   </a>
 </p>
 
