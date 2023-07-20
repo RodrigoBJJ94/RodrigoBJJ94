@@ -12,8 +12,6 @@
   </a>
 </p>
 
-<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBJJ94&layout=compact&exclude_repo=projeto-agenda-javascript-ejs&hide=java,ruby,makefile,starlark,objective-c,c%2B%2B,objective-c%2B%2B,blade,shell,cmake,c,swift,kotlin&langs_count=10&theme=buefy"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoBJJ94&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3 align="center">
   Contact
 </h3>
