@@ -26,7 +26,7 @@
   Contact
 </h3>
 
-[![Website](https://img.shields.io/badge/Website-c4412f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rodrigobrentano-en.netlify.app)
+[![Website](https://img.shields.io/badge/Website-c4412f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rodrigobrentano-br.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-brentano-26a7ba204/)
 [![Gmail](https://img.shields.io/badge/rodrigobjj24@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
 [![WhatsApp](https://img.shields.io/badge/+55_51_992191122-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551992191122)
