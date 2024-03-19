@@ -1,4 +1,4 @@
-- I’m currently working at Ponfac as web, mobile and desktop developer
+- I’m currently working at Ponfac as mid-level developer (web, mobile and desktop)
 - I'm graduate in systems analysis and development
 
 <h3 align="center">
