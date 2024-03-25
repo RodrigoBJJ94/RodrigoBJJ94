@@ -36,12 +36,12 @@
   Main Projects
 </h3>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoBJJ94&repo=music-and-video-downloader-electron&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoBJJ94&repo=anime-app-react-native&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoBJJ94&repo=cities-weather-react-native&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoBJJ94&repo=currency-converter-react&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoBJJ94&repo=tic-tac-toe-jogo-da-velha-react-native&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoBJJ94&repo=calorie-counter-react-native&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoBJJ94&repo=calculadora-de-imc-flutter&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RodrigoBJJ94/RodrigoBJJ94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
